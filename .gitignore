@@ -1,0 +1,15 @@
+﻿# 비밀값 - 절대 커밋 금지
+.env
+
+# 파이썬
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 로컬 데이터와 로그
+data/
+
+# 백업
+*.bak
+*.bak2
